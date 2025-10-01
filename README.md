@@ -4,7 +4,7 @@ This repository contains a **single Jupyter Notebook (`stock_news_predictor.ipyn
 
 ---
 
-## 📌 Overview
+## Overview
 
 The notebook walks through a complete workflow:
 
